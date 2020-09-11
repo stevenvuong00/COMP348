@@ -1,3 +1,7 @@
 hello world
+<<<<<<< HEAD
 
 Kelvin is here
+=======
+it's johnny
+>>>>>>> 4816eb4908e30389721fa4d0fc41f24c7d68d105
